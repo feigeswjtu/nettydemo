@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+**/.classpath
+**/.project
+**/.settings/
+**/logs/
+**/bin/
+**/*.log
+**/*.log.*
+**/target/
+**/.DS_Store
+**/.pmd
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/target
+**/*.iml
+**/.idea
+**/*_res.yaml
+**/log.txt
+app/test/.itest/
+webroot/mapdb/
